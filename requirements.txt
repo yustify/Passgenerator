@@ -1,2 +1,0 @@
-streamlit
-streamlit-copy-to-clipboard
